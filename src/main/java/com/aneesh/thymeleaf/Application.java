@@ -1,4 +1,4 @@
-package com.aneesh.thymeleaf.rest;
+package com.aneesh.thymeleaf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
